@@ -31,8 +31,7 @@ Used Tableau to created graphs according to questions.
 Built a dashboard. 
 
 ## Dashboard 
-
- 
+ https://github.com/smkandel/DataAnalysis/blob/main/Dashboard.png
 
 ## Project Insights: 
 Highest Priced Vegetables: Olives have the highest average retail price at $5.55 per pound, followed by Okra at $5.47 per pound. 
